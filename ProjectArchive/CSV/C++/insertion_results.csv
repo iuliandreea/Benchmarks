@@ -1,0 +1,31 @@
+2021-01-02T16:14:44+02:00
+Running ./insertion2
+Run on (4 X 2194.92 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x2)
+  L1 Instruction 32 KiB (x2)
+  L2 Unified 256 KiB (x2)
+  L3 Unified 3072 KiB (x1)
+Load Average: 0.00, 0.03, 0.08
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"arrayIndexInsertion/10",920465,861.337,865.248,ns,,,,,
+"arrayIndexInsertion/100",723624,1329.21,1305.46,ns,,,,,
+"arrayIndexInsertion/1000",159307,4095.61,4011.69,ns,,,,,
+"arrayLastInsertion/10",1004483,829.311,816.831,ns,,,,,
+"arrayLastInsertion/100",868985,1191.38,1173.18,ns,,,,,
+"arrayLastInsertion/1000",456031,2123.64,1765.92,ns,,,,,
+"vectorInsertion/10",794157,858.541,838.419,ns,,,,,
+"vectorInsertion/100",739980,1425.73,1390.17,ns,,,,,
+"vectorInsertion/1000",490778,1780.8,1481.79,ns,,,,,
+"listInsertion/10",390241,2418.64,2418.36,ns,,,,,
+"listInsertion/100",105296,10067.2,9897.7,ns,,,,,
+"listInsertion/1000",10455,60803.8,60603.1,ns,,,,,
+"queueInsertion/10",825418,1349.94,1347.37,ns,,,,,
+"queueInsertion/100",573589,1228.11,1204.66,ns,,,,,
+"queueInsertion/1000",337936,2592.59,2371.81,ns,,,,,
+"priorityQueueInsertion/10",726588,1463.87,1440.56,ns,,,,,
+"priorityQueueInsertion/100",318143,1889.52,1672.93,ns,,,,,
+"priorityQueueInsertion/1000",100000,8525.79,5682.98,ns,,,,,
+"stackInsertion/10",650649,975.895,978.432,ns,,,,,
+"stackInsertion/100",363393,1515.6,1485.45,ns,,,,,
+"stackInsertion/1000",379731,3074.84,2761.65,ns,,,,,

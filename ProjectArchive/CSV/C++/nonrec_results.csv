@@ -1,0 +1,19 @@
+2021-01-02T17:28:05+02:00
+Running ./nonrec2
+Run on (4 X 2194.92 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x2)
+  L1 Instruction 32 KiB (x2)
+  L2 Unified 256 KiB (x2)
+  L3 Unified 3072 KiB (x1)
+Load Average: 0.13, 0.03, 0.01
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"nonRecCommonDivisor/10",957800,712.6,721.845,ns,,,,,
+"nonRecCommonDivisor/100",666434,856.71,849.982,ns,,,,,
+"nonRecCommonDivisor/1000",341590,2031.59,2040.74,ns,,,,,
+"nonRecFactorial/10",6044408,102.989,102.989,ns,,,,,
+"nonRecFactorial/100",545516,1139.9,1139.91,ns,,,,,
+"nonRecFactorial/1000",73203,8643.98,8644.03,ns,,,,,
+"primeNumbers/10",7982687,76.7173,76.7179,ns,,,,,
+"primeNumbers/100",213125,3344.13,3344.14,ns,,,,,
+"primeNumbers/1000",3824,175843,175845,ns,,,,,

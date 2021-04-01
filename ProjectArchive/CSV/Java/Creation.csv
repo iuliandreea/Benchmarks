@@ -1,0 +1,16 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: noOfElements"
+"DataStructures.Creation.HashSetCreation","avgt",1,1,334.614185,NaN,"ns/op",10
+"DataStructures.Creation.HashSetCreation","avgt",1,1,4583.044032,NaN,"ns/op",100
+"DataStructures.Creation.HashSetCreation","avgt",1,1,63165.094697,NaN,"ns/op",1000
+"DataStructures.Creation.TreeSetCreation","avgt",1,1,622.100169,NaN,"ns/op",10
+"DataStructures.Creation.TreeSetCreation","avgt",1,1,8100.198806,NaN,"ns/op",100
+"DataStructures.Creation.TreeSetCreation","avgt",1,1,186832.263482,NaN,"ns/op",1000
+"DataStructures.Creation.arrayCreation","avgt",1,1,56.520524,NaN,"ns/op",10
+"DataStructures.Creation.arrayCreation","avgt",1,1,223.268817,NaN,"ns/op",100
+"DataStructures.Creation.arrayCreation","avgt",1,1,3289.699164,NaN,"ns/op",1000
+"DataStructures.Creation.arrayListCreation","avgt",1,1,183.263850,NaN,"ns/op",10
+"DataStructures.Creation.arrayListCreation","avgt",1,1,1722.872656,NaN,"ns/op",100
+"DataStructures.Creation.arrayListCreation","avgt",1,1,18020.868594,NaN,"ns/op",1000
+"DataStructures.Creation.linkedListCreation","avgt",1,1,239.305968,NaN,"ns/op",10
+"DataStructures.Creation.linkedListCreation","avgt",1,1,2046.081078,NaN,"ns/op",100
+"DataStructures.Creation.linkedListCreation","avgt",1,1,20737.593191,NaN,"ns/op",1000

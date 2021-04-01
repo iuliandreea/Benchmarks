@@ -1,0 +1,19 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: noOfElements"
+"DataStructures.Deletion.arrayIndexDeletion","avgt",1,1,343.531977,NaN,"ns/op",10
+"DataStructures.Deletion.arrayIndexDeletion","avgt",1,1,1520.188743,NaN,"ns/op",100
+"DataStructures.Deletion.arrayIndexDeletion","avgt",1,1,1216.682532,NaN,"ns/op",1000
+"DataStructures.Deletion.arrayLastDeletion","avgt",1,1,635.298312,NaN,"ns/op",10
+"DataStructures.Deletion.arrayLastDeletion","avgt",1,1,512.980000,NaN,"ns/op",100
+"DataStructures.Deletion.arrayLastDeletion","avgt",1,1,719.728814,NaN,"ns/op",1000
+"DataStructures.Deletion.arrayListDeletion","avgt",1,1,1612.360802,NaN,"ns/op",10
+"DataStructures.Deletion.arrayListDeletion","avgt",1,1,1271.698582,NaN,"ns/op",100
+"DataStructures.Deletion.arrayListDeletion","avgt",1,1,3130.123023,NaN,"ns/op",1000
+"DataStructures.Deletion.hashSetDeletion","avgt",1,1,1100.348351,NaN,"ns/op",10
+"DataStructures.Deletion.hashSetDeletion","avgt",1,1,675.891455,NaN,"ns/op",100
+"DataStructures.Deletion.hashSetDeletion","avgt",1,1,978.846154,NaN,"ns/op",1000
+"DataStructures.Deletion.linkedListDeletion","avgt",1,1,4754.428304,NaN,"ns/op",10
+"DataStructures.Deletion.linkedListDeletion","avgt",1,1,3223.637241,NaN,"ns/op",100
+"DataStructures.Deletion.linkedListDeletion","avgt",1,1,3434.242424,NaN,"ns/op",1000
+"DataStructures.Deletion.treeSetDeletion","avgt",1,1,747.896879,NaN,"ns/op",10
+"DataStructures.Deletion.treeSetDeletion","avgt",1,1,885.117692,NaN,"ns/op",100
+"DataStructures.Deletion.treeSetDeletion","avgt",1,1,858.714251,NaN,"ns/op",1000

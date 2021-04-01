@@ -1,0 +1,5 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"Threads.SingleThreading.start","avgt",1,1,372889.389427,NaN,"ns/op"
+"Threads.MultiThread2.start","avgt",1,1,1909427.790433,NaN,"ns/op"
+"Threads.MultiThread5.start","avgt",1,1,1764250.264448,NaN,"ns/op"
+"Threads.MultiThread10.start","avgt",1,1,3664300.363636,NaN,"ns/op"

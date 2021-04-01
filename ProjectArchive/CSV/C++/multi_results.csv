@@ -1,0 +1,14 @@
+2021-01-02T17:33:15+02:00
+Running ./multi2
+Run on (4 X 2194.92 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x2)
+  L1 Instruction 32 KiB (x2)
+  L2 Unified 256 KiB (x2)
+  L3 Unified 3072 KiB (x1)
+Load Average: 0.02, 0.05, 0.01
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"runThread/2",1,4.00091e+09,523265,ns,,,,,
+"runThread/5",1,6.00236e+09,1.14051e+06,ns,,,,,
+"runThread/10",1,1.10043e+10,2.20986e+06,ns,,,,,
+"runThread/20",1,2.1009e+10,5.31036e+06,ns,,,,,

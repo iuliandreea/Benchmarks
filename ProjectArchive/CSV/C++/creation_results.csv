@@ -1,0 +1,31 @@
+2021-01-02T15:32:06+02:00
+Running ./creation2
+Run on (4 X 2194.92 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x2)
+  L1 Instruction 32 KiB (x2)
+  L2 Unified 256 KiB (x2)
+  L3 Unified 3072 KiB (x1)
+Load Average: 0.06, 0.09, 0.04
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"staticArrayCreation/10",3755943,268.47,268.408,ns,,,,,
+"staticArrayCreation/100",400762,1712.02,1711.77,ns,,,,,
+"staticArrayCreation/1000",28972,25650.6,25644.1,ns,,,,,
+"dynamicArrayCreation/10",1348447,420.329,420.122,ns,,,,,
+"dynamicArrayCreation/100",284029,1973.23,1972.83,ns,,,,,
+"dynamicArrayCreation/1000",29333,18828.2,18825,ns,,,,,
+"vectorCreation/10",412415,2009.21,2008.92,ns,,,,,
+"vectorCreation/100",107281,6670.46,6669.84,ns,,,,,
+"vectorCreation/1000",13488,44551.4,44542.7,ns,,,,,
+"listCreation/10",332109,1728.64,1728.3,ns,,,,,
+"listCreation/100",38157,18912.2,18911.7,ns,,,,,
+"listCreation/1000",4524,174996,174991,ns,,,,,
+"queueCreation/10",407705,1283.86,1283.82,ns,,,,,
+"queueCreation/100",106510,6466.33,6466.25,ns,,,,,
+"queueCreation/1000",9957,55508.7,55509.3,ns,,,,,
+"priorityQueueCreation/10",120550,8116.06,8116.12,ns,,,,,
+"priorityQueueCreation/100",6428,116453,116454,ns,,,,,
+"priorityQueueCreation/1000",388,1.49491e+06,1.49492e+06,ns,,,,,
+"stackCreation/10",339703,2563.11,2563.12,ns,,,,,
+"stackCreation/100",89796,10306.4,10306,ns,,,,,
+"stackCreation/1000",8368,151098,151092,ns,,,,,

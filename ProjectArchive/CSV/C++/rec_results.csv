@@ -1,0 +1,19 @@
+2021-01-02T17:30:15+02:00
+Running ./rec2
+Run on (4 X 2194.92 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x2)
+  L1 Instruction 32 KiB (x2)
+  L2 Unified 256 KiB (x2)
+  L3 Unified 3072 KiB (x1)
+Load Average: 0.10, 0.06, 0.01
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"recCommonDivisor/10",955964,619.571,625.983,ns,,,,,
+"recCommonDivisor/100",1117926,694.381,695.203,ns,,,,,
+"recCommonDivisor/1000",1082535,818.916,810.952,ns,,,,,
+"recFactorial/10",10212102,64.4958,64.4965,ns,,,,,
+"recFactorial/100",1174196,586.016,586.01,ns,,,,,
+"recFactorial/1000",125935,5175.29,5175.32,ns,,,,,
+"reverseString/10",987475,675.23,681.046,ns,,,,,
+"reverseString/100",389254,2721.49,2731.39,ns,,,,,
+"reverseString/1000",50927,13425.7,13458.1,ns,,,,,

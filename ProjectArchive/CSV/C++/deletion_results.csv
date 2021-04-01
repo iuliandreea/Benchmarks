@@ -1,0 +1,31 @@
+2021-01-02T15:37:00+02:00
+Running ./deletion2
+Run on (4 X 2194.92 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x2)
+  L1 Instruction 32 KiB (x2)
+  L2 Unified 256 KiB (x2)
+  L3 Unified 3072 KiB (x1)
+Load Average: 0.06, 0.07, 0.05
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"arrayIndexDeletion/10",900433,1185.87,1183.88,ns,,,,,
+"arrayIndexDeletion/100",315735,1773.75,1774.55,ns,,,,,
+"arrayIndexDeletion/1000",77503,9959.55,9950.5,ns,,,,,
+"arrayLastDeletion/10",887700,730.716,727.395,ns,,,,,
+"arrayLastDeletion/100",962174,773.084,799.567,ns,,,,,
+"arrayLastDeletion/1000",832081,1395.14,1144.11,ns,,,,,
+"vectorDeletion/10",587256,1118.8,1104.12,ns,,,,,
+"vectorDeletion/100",736916,1205.69,1169.9,ns,,,,,
+"vectorDeletion/1000",490908,1787.07,1541.88,ns,,,,,
+"listDeletion/10",275936,3018.99,3024.08,ns,,,,,
+"listDeletion/100",75192,12522.4,12488.1,ns,,,,,
+"listDeletion/1000",6091,148016,147966,ns,,,,,
+"queueDeletion/10",834014,1212.12,1211.41,ns,,,,,
+"queueDeletion/100",580841,1674.75,1644.65,ns,,,,,
+"queueDeletion/1000",258902,2442.62,2265.33,ns,,,,,
+"priorityQueueDeletion/10",453503,1798.68,1768.38,ns,,,,,
+"priorityQueueDeletion/100",314584,2617.82,2427.55,ns,,,,,
+"priorityQueueDeletion/1000",132832,6790.3,5260.28,ns,,,,,
+"stackCreation/10",840596,1284.82,1317.11,ns,,,,,
+"stackCreation/100",422486,1413.4,1391.77,ns,,,,,
+"stackCreation/1000",283757,2684.98,2493.95,ns,,,,,

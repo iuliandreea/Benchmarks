@@ -1,0 +1,2 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"Threads.MultiThread.start","avgt",1,1,1169484.837963,NaN,"ns/op"

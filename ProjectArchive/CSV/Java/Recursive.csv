@@ -1,0 +1,10 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: noOfElements"
+"Functions.Recursive.recCommonDivisor","avgt",1,1,22.528146,NaN,"ns/op",10
+"Functions.Recursive.recCommonDivisor","avgt",1,1,38.560775,NaN,"ns/op",100
+"Functions.Recursive.recCommonDivisor","avgt",1,1,40.288985,NaN,"ns/op",1000
+"Functions.Recursive.recFactorial","avgt",1,1,27.474979,NaN,"ns/op",10
+"Functions.Recursive.recFactorial","avgt",1,1,333.378087,NaN,"ns/op",100
+"Functions.Recursive.recFactorial","avgt",1,1,7964.904267,NaN,"ns/op",1000
+"Functions.Recursive.reverseString","avgt",1,1,1123.005238,NaN,"ns/op",10
+"Functions.Recursive.reverseString","avgt",1,1,17416.388164,NaN,"ns/op",100
+"Functions.Recursive.reverseString","avgt",1,1,1078174.193548,NaN,"ns/op",1000
